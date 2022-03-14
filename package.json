@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "discord-command-parser": "^1.5.3",
+    "discord.js": "^13.3.1",
+    "enmap": "^5.8.7"
+  },
+  "name": "menuticket",
+  "version": "1.0.0",
+  "description": "A simple Menu Ticket System made through a Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomato6966/simple-menu-ticket-System.git"
+  },
+  "author": "Tomato#6966",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tomato6966/simple-menu-ticket-System/issues"
+  },
+  "homepage": "https://github.com/Tomato6966/simple-menu-ticket-System#readme"
+}
